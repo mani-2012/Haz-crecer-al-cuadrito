@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(palegreen,palegoldenrod,orchid);
+}
+.height{
+    background-color: rgb(92, 155, 222);
+    color: white;
+}
+.right_footer{
+ bottom: 0;
+ position: fixed;   
+ background-color: #eb7b8c;
+ text-align: center;
+ font-size: 25px;
+ color:white;
+ line-height: 30px;
+ width: 100%;
+}
+canvas{
+    background-color: burlywood;
+    border-color: cadetblue;
+    border-style:dotted ;
+    border-width: 20px;
+}
